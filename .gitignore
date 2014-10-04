@@ -1,0 +1,3 @@
+locales/*.json
+locales/*.mo
+locales/*.pot
